@@ -1,6 +1,3 @@
-краен срок: 08.07.2022
----
-
 ## Scala Weather Bot
 
 Scala Weather Bot is a console app which can be used to return the current weather by city, 
@@ -10,7 +7,3 @@ In order to see more information about the app commands please enter "help" when
 You also need to provide the app with the api key for the weather api. You can set the environmental variable
 like this API_KEY=<YOUR_API_KEY>
 
-
-# Инструкции и оценяване
-
-[https://github.com/scala-fmi/scala-fmi-2022/blob/master/project-instructions.md](https://github.com/scala-fmi/scala-fmi-2022/blob/master/project-instructions.md)
